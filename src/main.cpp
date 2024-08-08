@@ -4,8 +4,8 @@
 
 #include <raylib.h>
 
-#define WINDOW_WIDTH 800
-#define WINDOW_HEIGHT 800
+#define WINDOW_WIDTH 640
+#define WINDOW_HEIGHT 480
 #define WINDOW_TITLE "CollagenPrototype"
 
 typedef struct particle_t {
